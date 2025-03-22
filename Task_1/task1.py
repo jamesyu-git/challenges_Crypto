@@ -1,3 +1,5 @@
+# python .\task1.py 10
+
 import sys
 
 a = int(sys.argv[1])
